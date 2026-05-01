@@ -101,3 +101,17 @@ cd YOUR_REPO_NAME
 # Install dependencies
 pip install -r requirements.txt
 # Key libraries: transformers, datasets, peft, bitsandbytes, trl, accelerate
+
+---
+```
+## 👨‍💻 Author
+
+**Behzad Jannati**
+M.Sc. Student – Computer Architecture
+University of Tehran
+
+GitHub: [https://github.com/bhzadjnty7](https://github.com/bhzadjnty7)
+
+Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
+
+---
