@@ -115,3 +115,7 @@ GitHub: [https://github.com/bhzadjnty7](https://github.com/bhzadjnty7)
 Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
 
 ---
+
+## ⭐️ Support
+
+If you find this repository useful, consider giving it a ⭐️
